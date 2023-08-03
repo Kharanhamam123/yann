@@ -16,7 +16,7 @@
 
     <!-- Navbar Section -->
     <header id="header" class="flex space-around my-2  margin-auto">
-        <img src="https://logos-download.com/wp-content/uploads/2020/06/Nordic_IT_Logo.png">
+        <img src="">
         <input type="checkbox" id="check">
         <label for="check" class="checkBtn">
             <i class="fa fa-bars"></i>
@@ -53,7 +53,7 @@
             <p class="width-80 text-center para-font t-center">You’re about to read a story of how an MBA dropout became
                 the second most famous Chai Wala of the world, an international celebrity Chai guy by selling chai on
                 the streets of Ahmedabad.</p>
-            <img src="images//praful-billore.png" alt="" class="res">
+            <img src="https://logos-download.com/wp-content/uploads/2020/06/Nordic_IT_Logo.png" alt="" class="res">
 
         </section>
 
