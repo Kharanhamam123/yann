@@ -38,11 +38,9 @@
                 <h1 class="font-3 h-primary main-col">Selamat Datang 
                     Di Khairan Site!
                 </h1>
-                <p class="para-font text-left t-center">Entrepreneurship is nothing but failing constantly and learning
-                    from your mistakes till you make it big. The smart way to avoid making mistakes and grow
-                    simultaneously is to learn from others' mistakes who made it big by defeating all the odds. Learn
-                    from my mistakes before you start your entrepreneurial journey. Join my entrepreneurial mindset
-                    workshop now.</p>
+                <p class="para-font text-left t-center">Saya Adalad siswa smp yang belajar coding
+                atau Membuat Website Nama saya Lalu khairan hamam abirama
+                Sekolah di mtsn3 Mataram .</p>
                 <button class="btn pointer">Explore</button>
             </div>
             <div class="top-right image-50 ">
