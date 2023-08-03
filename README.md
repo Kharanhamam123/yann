@@ -16,7 +16,7 @@
 
     <!-- Navbar Section -->
     <header id="header" class="flex space-around my-2  margin-auto">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgospartans.ca%2F&psig=AOvVaw0GujOh1ADbHFxZB57qSXiM&ust=1691141906863000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDbs9eYwIADFQAAAAAdAAAAABAF">
+        <img src="https://logos-download.com/wp-content/uploads/2020/06/Nordic_IT_Logo.png">
         <input type="checkbox" id="check">
         <label for="check" class="checkBtn">
             <i class="fa fa-bars"></i>
