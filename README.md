@@ -35,8 +35,8 @@
         <!-- Top Home Section -->
         <section class="flex justify-between items-center fd-col-rev">
             <div class="top-left width-50 width-100 ">
-                <h1 class="font-3 h-primary main-col">Selamat Datang 
-                    Di Khairan Site!
+                <h1 class="font-3 h-primary main-col">Selamat Datang Di
+                Khairan Web!
                 </h1>
                 <p class="para-font text-left t-center">Saya Adalad siswa smp yang belajar coding
                 atau Membuat Website Nama saya Lalu khairan hamam abirama
