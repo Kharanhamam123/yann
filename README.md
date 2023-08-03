@@ -53,7 +53,7 @@
             <p class="width-80 text-center para-font t-center">You’re about to read a story of how an MBA dropout became
                 the second most famous Chai Wala of the world, an international celebrity Chai guy by selling chai on
                 the streets of Ahmedabad.</p>
-            <img src="https://logos-download.com/wp-content/uploads/2020/06/Nordic_IT_Logo.png" alt="" class="res">
+            <img src="https://img.freepik.com/free-vector/gradient-technology-logo_52683-8565.jpg?w=2000" alt="" class="res">
 
         </section>
 
