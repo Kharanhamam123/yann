@@ -86,7 +86,7 @@
     <!-- Location Section -->
     <section class="m-auto flex justify-between items-center m-top fd-col width-80" id="location">
         <div class="top-right ">
-            <img src="images/locations.png" alt="" class="location-img res">
+            <img src="https://img.freepik.com/free-vector/gradient-technology-logo_52683-8565.jpg?w=2000">
         </div>
         <div class="top-left width-50 width-100">
             <h1 class="font-3 h-primary main-col my-2">Khairan Locations!</h1>
