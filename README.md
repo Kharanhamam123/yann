@@ -44,7 +44,7 @@
                 <button class="btn pointer">Explore</button>
             </div>
             <div class="top-right image-50 ">
-                <img src="images/main-image.png" class="pointer">
+                <img src="">
             </div>
         </section>
         <!-- Academy Section of MBA Chai Wala Landing Page -->
